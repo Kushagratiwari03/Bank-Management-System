@@ -44,17 +44,18 @@ A fully functional **Bank Management System** developed using Core Java that dem
 - Stream API	
 - Exception Handling
 
-👨‍💻 Sample Users:
+## 👨‍💻 Sample Users:
 
 Admin
 Username: admin
 Password: admin123
 
-📌 Why This Project?
+## 📌 Why This Project?
+
 ✅ Real-world problem-solving
 ✅ Covers complete Core Java skills
 ✅ Ready to be shown in resume & interviews
 ✅ Modular, extendable, and beginner-friendly
 
-⭐ Author
+## ⭐ Author
 Kushagra Tiwari – CSE Student passionate about building real-world software projects.
