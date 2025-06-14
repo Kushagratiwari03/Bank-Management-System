@@ -54,8 +54,11 @@ Password: admin123
 ## 📌 Why This Project?
 
 ✅ Real-world problem-solving
+<br>
 ✅ Covers complete Core Java skills
+<br>
 ✅ Ready to be shown in resume & interviews
+<br>
 ✅ Modular, extendable, and beginner-friendly
 
 ## ⭐ Author
